@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JpaTutorialApplication {
 
 	public static void main(String[] args) {
+		// Sample project for Spring JPA practice
 		SpringApplication.run(JpaTutorialApplication.class, args);
 	}
 }
